@@ -4,8 +4,6 @@
 
 int main(int argc, char **argv)
 {
-	printf("Hello \n");
-	
-	
+	printf("Hello My name is zhang\n");
 	return 0;
 }
